@@ -1,3 +1,5 @@
+name: 直连规则
+desc: 直连规则
 rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,applications,DIRECT
