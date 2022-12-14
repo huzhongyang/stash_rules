@@ -9,7 +9,7 @@ rules:
   - RULE-SET,direct,DIRECT
   - RULE-SET,lancidr,DIRECT
   - RULE-SET,cncidr,DIRECT
-s
+
 rule-providers:
   # 广告域名列表
   reject:
